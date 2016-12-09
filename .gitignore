@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#NotToBeCommitted SubFolder
+/*
+!/Web_Scraping
+/Web_Scraping/*
+!/Web_Scraping/NotToBeCommitted
+/Web_Scraping/NotToBeCommitted/*
