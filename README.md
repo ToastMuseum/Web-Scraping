@@ -1,7 +1,7 @@
 Web_Scraping
 
 
-Web Scraping exercises
+Python Web Scraping exercises
 
 Using:
 	
