@@ -21,7 +21,7 @@ print(type(pElems[0]))
 # return string that includes the opening/closing tags also
 print(str(pElems[0]))
 
-# return a dictionary containing the element's id and value: 
+# '.attrs' returns a dictionary containing the element's id and value: 
 #		For (<p class = "slogan">Better Call Saul!</p>) 
 #			pElems[0].attrs would return {'class' : ['slogan']}
 #				attribute id: 'class'
